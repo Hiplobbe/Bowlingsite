@@ -1,0 +1,16 @@
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\bin\Debug\netcoreapp2.0\BowlerTest.deps.json
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\bin\Debug\netcoreapp2.0\BowlerTest.runtimeconfig.json
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\bin\Debug\netcoreapp2.0\BowlerTest.runtimeconfig.dev.json
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\bin\Debug\netcoreapp2.0\BowlerTest.dll
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\bin\Debug\netcoreapp2.0\BowlerTest.pdb
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\bin\Debug\netcoreapp2.0\BowlingSite.dll
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\bin\Debug\netcoreapp2.0\BowlingSite.pdb
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\obj\Debug\netcoreapp2.0\BowlerTest.csprojResolveAssemblyReference.cache
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\obj\Debug\netcoreapp2.0\BowlerTest.csproj.CoreCompileInputs.cache
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\obj\Debug\netcoreapp2.0\BowlerTest.AssemblyInfoInputs.cache
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\obj\Debug\netcoreapp2.0\BowlerTest.AssemblyInfo.cs
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\obj\Debug\netcoreapp2.0\BowlerTest.dll
+C:\Users\Hiplobbe\Desktop\BowlingSite\BowlerTest\obj\Debug\netcoreapp2.0\BowlerTest.pdb

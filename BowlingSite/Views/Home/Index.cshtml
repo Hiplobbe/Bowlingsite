@@ -1,0 +1,46 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script> 
+    <script src="~/js/frame.js"></script>
+    <script src="~/js/controller.js"></script> 
+    <link href="~/css/main.css" rel="stylesheet" />  
+</head>
+<body>
+    <div class="announceDiv">
+        <span id="announcementsSpan"></span>
+    </div>
+    <table id="scoreTable" ng-app="bowlerApp" ng-controller="tableController">
+        <tr>
+            <td>
+                <span>Round: {{currentRound}}</span>
+            </td>
+        </tr>
+        <tr class="scoreRow" ng-repeat="frame in frames">
+            <td>
+                <span>Number: {{frame.frameNumber}}</span>
+            </td>
+            <td>
+                <span>Score: {{frame.score}}</span>
+            </td>
+            <td>
+                <span>Mark: {{returnMark(frame.mark)}}</span>
+            </td>
+        </tr>        
+        <tr>            
+            <td>
+                <input id="firstInput" type="text" ng-model="firstThrow" ng-disabled="currentRound > 10"/>
+                <input id="secondInput" type="text" ng-model="secondThrow" ng-disabled="currentRound > 10"/>
+                <input id="thirdInput" type="text" ng-model="thirdThrow" ng-disabled="currentRound != 10" />
+            </td>            
+        </tr>
+        <tr>
+            <td>
+                <input type="button" value="Submit score" ng-click="sendResult($scope)" ng-disabled="currentRound > 10" />
+            </td>
+        </tr>
+    </table>
+</body>
+
